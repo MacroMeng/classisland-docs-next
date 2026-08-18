@@ -74,4 +74,4 @@ icon: code-commit
 
 ## 还有疑问？
 
-您可以[加入 QQ 群](https://qm.qq.com/q/4NsDQKiAuQ)与开发者和其他用户讨论。
+您可以加入 [QQ 群 #1](https://qm.qq.com/q/4NsDQKiAuQ) / [QQ 群 #2](https://qm.qq.com/q/MhWCvrk7mu) 与开发者和其他用户讨论。
